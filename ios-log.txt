@@ -1,0 +1,39 @@
+2021-06-17 16:54:20.904376+1000 MyApp[18008:7968306] Apache Cordova native platform version 5.1.1 is starting.
+2021-06-17 16:54:20.904422+1000 MyApp[18008:7968306] Multi-tasking -> Device: YES, App: YES
+2021-06-17 16:54:20.914512+1000 MyApp[18008:7968306] CDVWKWebViewEngine: trying to inject XHR polyfill
+2021-06-17 16:54:21.011012+1000 MyApp[18008:7968306] CDVWKWebViewEngine will reload WKWebView if required on resume
+2021-06-17 16:54:21.011080+1000 MyApp[18008:7968306] Using Ionic WKWebView
+2021-06-17 16:54:21.011173+1000 MyApp[18008:7968306] [CDVTimer][console] 0.023007ms
+2021-06-17 16:54:21.011217+1000 MyApp[18008:7968306] [CDVTimer][handleopenurl] 0.015020ms
+2021-06-17 16:54:21.011835+1000 MyApp[18008:7968306] [CDVTimer][intentandnavigationfilter] 0.597954ms
+2021-06-17 16:54:21.011871+1000 MyApp[18008:7968306] [CDVTimer][gesturehandler] 0.012040ms
+2021-06-17 16:54:21.012478+1000 MyApp[18008:7968306] [CDVTimer][statusbar] 0.584006ms
+2021-06-17 16:54:21.013902+1000 MyApp[18008:7968306] [CDVTimer][splashscreen] 1.400948ms
+2021-06-17 16:54:21.013973+1000 MyApp[18008:7968306] CDVIonicKeyboard: resize mode 1
+2021-06-17 16:54:21.014128+1000 MyApp[18008:7968306] [CDVTimer][cdvionickeyboard] 0.200033ms
+2021-06-17 16:54:21.014145+1000 MyApp[18008:7968306] [CDVTimer][TotalPluginStartup] 3.008008ms
+2021-06-17 16:54:21.044489+1000 MyApp[18008:7968306] Cannot parse config agent (NSPPrivacyProxyDNSAgent). No data available
+2021-06-17 16:54:25.424453+1000 MyApp[18008:7968306] [Assert] CLIENT APP ERROR - Neither the view or container of the UITargetedPreview is currently in a window. This is in violation of UIDragInteraction API contract and can cause a severe visual glich. THIS IS A CLIENT APP BUG and will soon be a hard assert. PLEASE FIX ME
+2021-06-17 16:54:26.873271+1000 MyApp[18008:7968534] Cannot parse config agent (NSPPrivacyProxyDNSAgent). No data available
+2021-06-17 16:54:33.020316+1000 MyApp[18008:7968306] [Assert] CLIENT APP ERROR - Neither the view or container of the UITargetedPreview is currently in a window. This is in violation of UIDragInteraction API contract and can cause a severe visual glich. THIS IS A CLIENT APP BUG and will soon be a hard assert. PLEASE FIX ME
+2021-06-17 16:54:37.131663+1000 MyApp[18008:7968306] clicked
+2021-06-17 16:54:37.991043+1000 MyApp[18008:7968306] clicked
+2021-06-17 16:54:38.499680+1000 MyApp[18008:7968306] clicked
+2021-06-17 16:54:50.178535+1000 MyApp[18008:7968306] [Assert] CLIENT APP ERROR - Neither the view or container of the UITargetedPreview is currently in a window. This is in violation of UIDragInteraction API contract and can cause a severe visual glich. THIS IS A CLIENT APP BUG and will soon be a hard assert. PLEASE FIX ME
+2021-06-17 16:54:55.486796+1000 MyApp[18008:7968306] [Assert] CLIENT APP ERROR - Neither the view or container of the UITargetedPreview is currently in a window. This is in violation of UIDragInteraction API contract and can cause a severe visual glich. THIS IS A CLIENT APP BUG and will soon be a hard assert. PLEASE FIX ME
+2021-06-17 16:54:56.873650+1000 MyApp[18008:7968537] Cannot parse config agent (NSPPrivacyProxyDNSAgent). No data available
+2021-06-17 16:54:59.349894+1000 MyApp[18008:7968306] clicked
+2021-06-17 16:55:01.097760+1000 MyApp[18008:7968306] [Assert] CLIENT APP ERROR - Neither the view or container of the UITargetedPreview is currently in a window. This is in violation of UIDragInteraction API contract and can cause a severe visual glich. THIS IS A CLIENT APP BUG and will soon be a hard assert. PLEASE FIX ME
+2021-06-17 16:55:24.704070+1000 MyApp[18008:7968306] CDVWKWebViewEngine shouldReloadWebView::
+2021-06-17 16:55:24.704147+1000 MyApp[18008:7968306] CDVWKWebViewEngine shouldReloadWebView title: Ionic App
+2021-06-17 16:55:24.704167+1000 MyApp[18008:7968306] CDVWKWebViewEngine shouldReloadWebView location: ionic://localhost/tabs/tab1
+2021-06-17 16:55:24.704183+1000 MyApp[18008:7968306] CDVWKWebViewEngine shouldReloadWebView reload: 0
+2021-06-17 16:55:32.767920+1000 MyApp[18008:7968537] Cannot parse config agent (NSPPrivacyProxyDNSAgent). No data available
+2021-06-17 16:55:32.934660+1000 MyApp[18008:7968306] [Assert] CLIENT APP ERROR - Neither the view or container of the UITargetedPreview is currently in a window. This is in violation of UIDragInteraction API contract and can cause a severe visual glich. THIS IS A CLIENT APP BUG and will soon be a hard assert. PLEASE FIX ME
+2021-06-17 16:55:35.872799+1000 MyApp[18008:7969435] Cannot parse config agent (NSPPrivacyProxyDNSAgent). No data available
+2021-06-17 16:55:37.106151+1000 MyApp[18008:7968306] [Assert] CLIENT APP ERROR - Neither the view or container of the UITargetedPreview is currently in a window. This is in violation of UIDragInteraction API contract and can cause a severe visual glich. THIS IS A CLIENT APP BUG and will soon be a hard assert. PLEASE FIX ME
+2021-06-17 16:56:53.846228+1000 MyApp[18008:7968306] [Assert] CLIENT APP ERROR - Neither the view or container of the UITargetedPreview is currently in a window. This is in violation of UIDragInteraction API contract and can cause a severe visual glich. THIS IS A CLIENT APP BUG and will soon be a hard assert. PLEASE FIX ME
+2021-06-17 16:57:01.405913+1000 MyApp[18008:7968306] CDVWKWebViewEngine shouldReloadWebView::
+2021-06-17 16:57:01.405976+1000 MyApp[18008:7968306] CDVWKWebViewEngine shouldReloadWebView title: Ionic App
+2021-06-17 16:57:01.406001+1000 MyApp[18008:7968306] CDVWKWebViewEngine shouldReloadWebView location: ionic://localhost/tabs/tab1
+2021-06-17 16:57:01.406021+1000 MyApp[18008:7968306] CDVWKWebViewEngine shouldReloadWebView reload: 0
