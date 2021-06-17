@@ -12,4 +12,8 @@ export class ExploreContainerComponent implements OnInit {
 
   ngOnInit() {}
 
+  onClick() {
+    console.log('clicked');
+  }
+
 }

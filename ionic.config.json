@@ -1,5 +1,7 @@
 {
   "name": "ios15test",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
